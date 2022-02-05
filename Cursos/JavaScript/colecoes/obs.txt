@@ -1,0 +1,1 @@
+Exercícios (com algumas alterações) do curso de Coleções da Digital Innovation One, ministrado pela stebsnusch. Link do gitHub do curso: https://github.com/stebsnusch/basecamp-javascript/tree/main/colecoes
